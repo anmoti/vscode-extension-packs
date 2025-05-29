@@ -1,0 +1,30 @@
+{
+  "name": "extension-pack-utility",
+  "displayName": "[Extension Pack] Utility",
+  "description": "Utility Extension Pack for Visual Studio Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "bierner.emojisense",
+    "hexzii.unicode-hovery",
+    "kuone.sequence-number",
+    "jrebocho.vscode-random",
+    "aaron-bond.better-comments",
+    "streetsidesoftware.code-spell-checker",
+    "editorconfig.editorconfig",
+    "ms-vscode.hexeditor",
+    "stxr.iconfont-preview",
+    "visualstudioexptteam.vscodeintellicode",
+    "josee9988.minifyall",
+    "quicktype.quicktype",
+    "chrmarti.regex",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "pflannery.vscode-versionlens",
+    "fill-labs.dependi"
+  ]
+}

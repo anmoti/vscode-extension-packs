@@ -1,0 +1,19 @@
+{
+  "name": "extension-pack-docker",
+  "displayName": "[Extension Pack] Docker",
+  "description": "Docker Extension Pack for Visual Studio Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-azuretools.vscode-docker",
+    "ms-azuretools.vscode-containers",
+    "ms-kubernetes-tools.vscode-kubernetes-tools",
+    "ms-vscode-remote.remote-containers",
+    "jeff-hykin.better-dockerfile-syntax"
+  ]
+}

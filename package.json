@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "name": "vscode-extension-packs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.6.2",
+  "devDependencies": {
+    "generator-code": "^1.11.9",
+    "yo": "^5.1.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "core-js",
+      "spawn-sync",
+      "yo"
+    ]
+  }
+}

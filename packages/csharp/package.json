@@ -1,0 +1,17 @@
+{
+  "name": "extension-pack-csharp",
+  "displayName": "[Extension Pack] C#",
+  "description": "C# Extension Pack for Visual Studio Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-dotnettools.csharp",
+    "ms-dotnettools.csharp-devkit",
+    "ms-dotnettools.vscodeintellicode-csharp"
+  ]
+}

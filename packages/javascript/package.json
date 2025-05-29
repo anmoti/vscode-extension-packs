@@ -1,0 +1,32 @@
+{
+  "name": "extension-pack-javascript",
+  "displayName": "[Extension Pack] JavaScript",
+  "description": "JavaScript Extension Pack for Visual Studio Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "denoland.vscode-deno",
+    "mxsdev.typescript-explorer",
+    "yoavbls.pretty-ts-errors",
+    "christian-kohler.path-intellisense",
+    "mgmcdermott.vscode-language-babel",
+    "xabikos.javascriptsnippets",
+    "wallabyjs.quokka-vscode",
+    "juxtacode.vscode-jest-debugger",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "rvest.vs-code-prettier-eslint",
+    "christian-kohler.npm-intellisense",
+    "gamunu.vscode-yarn",
+    "jacano.vscode-pnpm",
+    "chavyleung.vscode-pnpm-verlens",
+    "prisma.prisma",
+    "imgildev.vscode-drizzle-snippets",
+    "imgildev.vscode-zod-snippets"
+  ]
+}

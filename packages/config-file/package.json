@@ -1,0 +1,22 @@
+{
+  "name": "extension-pack-config-file",
+  "displayName": "[Extension Pack] Config File",
+  "description": "Config Files Extension Pack for Visual Studio Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "mrmlnc.vscode-json5",
+    "richie5um2.vscode-sort-json",
+    "redhat.vscode-yaml",
+    "tamasfe.even-better-toml",
+    "janisdd.vscode-edit-csv",
+    "mechatroner.rainbow-csv",
+    "irongeek.vscode-env",
+    "redhat.vscode-xml"
+  ]
+}

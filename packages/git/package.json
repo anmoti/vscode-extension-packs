@@ -1,0 +1,21 @@
+{
+  "name": "extension-pack-git",
+  "displayName": "[Extension Pack] Git",
+  "description": "Git Extension Pack for Visual Studio Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "vivaxy.vscode-conventional-commits",
+    "seatonjiang.gitmoji-vscode",
+    "github.vscode-github-actions",
+    "github.vscode-pull-request-github"
+  ]
+}
