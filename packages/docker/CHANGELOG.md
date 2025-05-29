@@ -4,7 +4,7 @@ All notable changes to the "extension-pack-docker" extension pack will be docume
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.1]
 
 - Docker Management Extensions:
   - [Docker (ms-azuretools.vscode-docker)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)

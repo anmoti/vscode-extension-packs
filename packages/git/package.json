@@ -2,7 +2,10 @@
   "name": "extension-pack-git",
   "displayName": "[Extension Pack] Git",
   "description": "Git Extension Pack for Visual Studio Code.",
+  "repository": "https://github.com/anmoti/vscode-extention-packs",
+  "publisher": "anmoti",
   "version": "0.0.1",
+  "license": "CC0-1.0",
   "engines": {
     "vscode": "^1.100.0"
   },

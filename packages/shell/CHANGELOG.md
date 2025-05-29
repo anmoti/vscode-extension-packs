@@ -4,7 +4,7 @@ All notable changes to the "extension-pack-shell" extension pack will be documen
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.1]
 
 - Shell Syntax Extensions:
   - [Better Shell Syntax (jeff-hykin.better-shellscript-syntax)](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-shellscript-syntax)

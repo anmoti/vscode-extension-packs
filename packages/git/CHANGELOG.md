@@ -4,7 +4,7 @@ All notable changes to the "extension-pack-git" extension pack will be documente
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.1]
 
 ### Added
 

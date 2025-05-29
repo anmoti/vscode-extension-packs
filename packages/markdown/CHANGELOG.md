@@ -4,7 +4,7 @@ All notable changes to the "extension-pack-markdown" extension pack will be docu
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.1]
 
 - Markdown Editing Extensions:
   - [Markdown All in One (yzhang.markdown-all-in-one)](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)

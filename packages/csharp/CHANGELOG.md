@@ -4,7 +4,7 @@ All notable changes to the "extension-pack-csharp" extension pack will be docume
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.1]
 
 - Core Development Extensions:
   - [C# (ms-dotnettools.csharp)](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)

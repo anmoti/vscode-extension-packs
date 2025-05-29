@@ -4,7 +4,7 @@ All notable changes to the "extension-pack-javascript" extension pack will be do
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.1]
 
 - JavaScript/TypeScript Core Tools:
   - [Deno (denoland.vscode-deno)](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno)

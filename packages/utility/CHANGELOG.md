@@ -4,7 +4,7 @@ All notable changes to the "extension-pack-utility" extension pack will be docum
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.1]
 
 - Emoji & Unicode Support:
   - [:emojisense: (bierner.emojisense)](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense)
