@@ -1,0 +1,20 @@
+{
+  "name": "extension-pack-cpp",
+  "displayName": "[Extension Pack] C/C++",
+  "description": "C/C++ Extension Pack for Visual Studio Code.",
+  "repository": "https://github.com/anmoti/vscode-extention-packs",
+  "publisher": "anmoti",
+  "version": "0.0.1",
+  "license": "CC0-1.0",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-vscode.cpptools",
+    "ms-vscode.makefile-tools",
+    "ms-vscode.cmake-tools"
+  ]
+}
