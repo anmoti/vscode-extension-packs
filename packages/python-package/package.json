@@ -1,0 +1,23 @@
+{
+  "name": "extension-pack-python-package",
+  "displayName": "[Extension Pack] Python Package",
+  "description": "Python Package Extension Pack for Visual Studio Code.",
+  "repository": "https://github.com/anmoti/vscode-extention-packs",
+  "publisher": "anmoti",
+  "version": "0.0.1",
+  "license": "CC0-1.0",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "batisteo.vscode-django",
+    "bigonesystems.django",
+    "cstrap.flask-snippets",
+    "damildrizzy.fastapi-snippets",
+    "dirk-thomas.vscode-lark",
+    "SamiunBlack.bat-lang-highlighter"
+  ]
+}

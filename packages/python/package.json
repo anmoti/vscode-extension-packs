@@ -1,0 +1,26 @@
+{
+  "name": "extension-pack-python",
+  "displayName": "[Extension Pack] Python",
+  "description": "Python Extension Pack for Visual Studio Code.",
+  "repository": "https://github.com/anmoti/vscode-extention-packs",
+  "publisher": "anmoti",
+  "version": "0.0.1",
+  "license": "CC0-1.0",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-python.python",
+    "ms-python.vscode-python-envs",
+    "njpwerner.autodocstring",
+    "KevinRose.vsc-python-indent",
+    "frhtylcn.pythonsnippets",
+    "ms-python.black-formatter",
+    "ms-python.isort",
+    "ms-python.mypy-type-checker",
+    "charliermarsh.ruff"
+  ]
+}
