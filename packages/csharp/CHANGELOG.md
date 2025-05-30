@@ -15,3 +15,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
     - [IntelliCode for C# Dev Kit (ms-dotnettools.vscodeintellicode-csharp)](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp)
 
 ## [Unreleased]
+
+- **Fixed**
+  - Fixed typo in "C# Dev Kit" extension ID (ms-dotnettools.csharp-devkit -> ms-dotnettools.csdevkit)
