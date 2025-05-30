@@ -14,7 +14,7 @@
   ],
   "extensionPack": [
     "ms-dotnettools.csharp",
-    "ms-dotnettools.csharp-devkit",
+    "ms-dotnettools.csdevkit",
     "ms-dotnettools.vscodeintellicode-csharp"
   ]
 }
