@@ -19,6 +19,7 @@
     "christian-kohler.path-intellisense",
     "mgmcdermott.vscode-language-babel",
     "xabikos.javascriptsnippets",
+    "wix.vscode-import-cost",
     "wallabyjs.quokka-vscode",
     "juxtacode.vscode-jest-debugger",
     "esbenp.prettier-vscode",

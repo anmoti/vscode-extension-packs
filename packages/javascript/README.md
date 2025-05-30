@@ -13,6 +13,7 @@ JavaScript Extension Pack for Visual Studio Code.
   - [Path Intellisense (christian-kohler.path-intellisense)](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
   - [Babel JavaScript (mgmcdermott.vscode-language-babel)](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
   - [JavaScript (ES6) code snippets (xabikos.javascriptsnippets)](https://marketplace.visualstudio.com/items?itemName=xabikos.javascriptsnippets)
+  - [Import Cost (wix.vscode-import-cost)](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
 - Testing/Debugging:
   - [Quokka.js (wallabyjs.quokka-vscode)](https://marketplace.visualstudio.com/items?itemName=wallabyjs.quokka-vscode)
