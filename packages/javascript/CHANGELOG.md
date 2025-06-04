@@ -37,8 +37,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
   - [Drizzle Snippets (imgildev.vscode-drizzle-snippets)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-drizzle-snippets)
   - [Zod Snippets (imgildev.vscode-zod-snippets)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-zod-snippets)
 
-## [Unreleased]
+## [0.0.2]
 
 - **Added**
   - Development Experience:
   - [Import Cost (wix.vscode-import-cost)](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+
+## [Unreleased]
