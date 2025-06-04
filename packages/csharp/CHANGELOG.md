@@ -14,7 +14,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
   - Language Support Extensions:
     - [IntelliCode for C# Dev Kit (ms-dotnettools.vscodeintellicode-csharp)](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp)
 
-## [Unreleased]
+## [0.0.2]
 
 - **Fixed**
   - Fixed typo in "C# Dev Kit" extension ID (ms-dotnettools.csharp-devkit -> ms-dotnettools.csdevkit)
