@@ -1,5 +1,5 @@
 {
-  "name": "extension-pack-python",
+  "name": "extension-pack--python",
   "displayName": "[Extension Pack] Python",
   "description": "Python Extension Pack for Visual Studio Code.",
   "repository": "https://github.com/anmoti/vscode-extention-packs",

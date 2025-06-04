@@ -4,7 +4,7 @@ All notable changes to the "extension-pack-python" extension pack will be docume
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.1]
 
 - **Added**
   - Core Python Tools:
@@ -21,3 +21,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
     - [isort (ms-python.isort)](https://marketplace.visualstudio.com/items?itemName=ms-python.isort)
     - [Mypy Type Checker (ms-python.mypy-type-checker)](https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker)
     - [Ruff (charliermarsh.ruff)](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)
+
+## [Unreleased]
